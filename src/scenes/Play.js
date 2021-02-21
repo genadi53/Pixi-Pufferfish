@@ -6,9 +6,7 @@ import Fish from '../components/Fish';
 
 export default class Play extends Scene {
   
-  /**
-   * 
-   */
+  
   async onCreated() {
 
     const footer = new Footer();
